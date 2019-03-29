@@ -40,32 +40,32 @@ Each contributor in this repository is responsible for uploading, documenting an
 * **c)** Simple case-study (phospho-proteomics data generated in the liver cancer cell line HepG2 - applied in [*Mitsos et.al.*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000591) and [*Guziolowski et.al.*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753570/))
 
 * **2)** Dynamic-Feeder (Enio)
-* **a)** Rationale (further refinement of the PKN, feeder for the boolean CNO + CNORode)
-* **b)** Workflow (enrichment of the curated PKN with possible interactions from other databases, different metrics (MI, mse), a data driven component to infer other possible interactions not present in the PKN or the database)
-* **c)** Interactions from Omnipath → weights
-* **d)** Simple case-study (HPN-DREAM breast cancer phosphoproteomic data)
+**a)** Rationale (further refinement of the PKN, feeder for the boolean CNO + CNORode)
+**b)** Workflow (enrichment of the curated PKN with possible interactions from other databases, different metrics (MI, mse), a data driven component to infer other possible interactions not present in the PKN or the database)
+**c)** Interactions from Omnipath → weights
+**d)** Simple case-study (HPN-DREAM breast cancer phosphoproteomic data)
 
-* **3)** CNORProb (Panuwat)
-* **a)** Probabilistic framework (Probabilistic Boolean/Bayesian networks) vs Fuzzy logic network
-* **b)** Alternative pipeline to CNORfuzzy for quantitative optimisation of steady-data 
-* **c)** Interpretation of results based on edges’ probability
-* **d)** (optional) point out different formulation for logical gates + additive effect between CNO and FALCON/CNOprob
-* **e)** Simple case-study (TBD)
+**3)** CNORProb (Panuwat)
+**a)** Probabilistic framework (Probabilistic Boolean/Bayesian networks) vs Fuzzy logic network
+**b)** Alternative pipeline to CNORfuzzy for quantitative optimisation of steady-data 
+**c)** Interpretation of results based on edges’ probability
+**d)** (optional) point out different formulation for logical gates + additive effect between CNO and FALCON/CNOprob
+**e)** Simple case-study (TBD)
 
-* **4)** Plotting & New Cytocopter (Attila + Francesco)
-* **a)** SBML-Qual in/out
-* **b)** The new plotting features - RMSE on plot fit 
+**4)** Plotting & New Cytocopter (Attila + Francesco)
+**a)** SBML-Qual in/out
+**b)** The new plotting features - RMSE on plot fit 
 
-* **5)** CellNOpt-Maboss (Aurelien)
-* **a)** Asynchronous boolean framework with Gillespi algorithm for approximation
-* **b)** Bounded continuous outputs 
-* **c)** Cyclic attractors and negative feedbacks
+**5)** CellNOpt-Maboss (Aurelien)
+**a)** Asynchronous boolean framework with Gillespi algorithm for approximation
+**b)** Bounded continuous outputs 
+**c)** Cyclic attractors and negative feedbacks
 
-* **6)** Post-hoc systematic analyses (Attila, Panuwat)
-* **a)** Bootstrapping: Boolean, prob, ode
-* **b)** Cross-validation: boolean
-* **c)** Sensitivity analyses
-* **d)** Edge/Node Knock-out analyses
+**6)** Post-hoc systematic analyses (Attila, Panuwat)
+**a)** Bootstrapping: Boolean, prob, ode
+**b)** Cross-validation: boolean
+**c)** Sensitivity analyses
+**d)** Edge/Node Knock-out analyses
 
 ## Targeted Journals
 
