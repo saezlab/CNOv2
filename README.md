@@ -1,11 +1,17 @@
 # CNOv2
 
 Packages:
+
 **CellNOptR:** https://github.com/saezlab/CellNOptR
+
 **CNORode:** https://github.com/saezlab/CNORode
+
 **CellNOpt-Feeder:** https://github.com/saezlab/CellNOpt-Feeder
+
 **CNORProb:** https://github.com/saezlab/CNORprob
+
 **CellNOpt-MaBoSS:** https://github.com/saezlab/CellNOptR-MaBoSS
+
 **ShinyCNOR:** https://github.com/saezlab/ShinyCNOR
 
 ## License
